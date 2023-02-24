@@ -1,0 +1,8 @@
+gradio
+openai
+langchain
+chromadb
+unstructured
+unstructured-inference 
+"detectron2@git+https://github.com/facebookresearch/detectron2.git@v0.6#egg=detectron2"
+"unstructured[local-inference]" 

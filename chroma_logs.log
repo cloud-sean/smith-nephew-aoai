@@ -1,0 +1,51 @@
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Logger created
+WARNING:root:Created a chunk of size 1486, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1222, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1467, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1605, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1467, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1257, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1486, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1222, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1467, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1605, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1467, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1257, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1486, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1222, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1467, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1605, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1467, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1257, which is longer than the specified 1000
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:time to pre process our knn query: 1.6689300537109375e-06
+DEBUG:Chroma:time to run knn query: 0.002213001251220703
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0003421306610107422
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.0003180503845214844
+DEBUG:Chroma:time to pre process our knn query: 3.0994415283203125e-06
+DEBUG:Chroma:time to run knn query: 0.0007562637329101562
+WARNING:root:Created a chunk of size 1486, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1222, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1467, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1605, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1467, which is longer than the specified 1000
+WARNING:root:Created a chunk of size 1257, which is longer than the specified 1000
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0001380443572998047
+DEBUG:Chroma:time to pre process our knn query: 3.0994415283203125e-06
+DEBUG:Chroma:time to run knn query: 0.0002999305725097656
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.00036597251892089844
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0003452301025390625
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0005128383636474609

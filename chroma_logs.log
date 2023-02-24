@@ -83,3 +83,17 @@ DEBUG:Chroma:time to pre process our knn query: 0.0
 DEBUG:Chroma:time to run knn query: 0.0001289844512939453
 DEBUG:Chroma:time to pre process our knn query: 3.0994415283203125e-06
 DEBUG:Chroma:time to run knn query: 0.0017609596252441406
+DEBUG:Chroma:time to pre process our knn query: 4.0531158447265625e-06
+DEBUG:Chroma:time to run knn query: 0.00109100341796875
+DEBUG:Chroma:time to pre process our knn query: 2.86102294921875e-06
+DEBUG:Chroma:time to run knn query: 0.0008549690246582031
+DEBUG:Chroma:time to pre process our knn query: 3.0994415283203125e-06
+DEBUG:Chroma:time to run knn query: 0.0003330707550048828
+DEBUG:Chroma:time to pre process our knn query: 2.1457672119140625e-06
+DEBUG:Chroma:time to run knn query: 0.0003490447998046875
+DEBUG:Chroma:time to pre process our knn query: 2.86102294921875e-06
+DEBUG:Chroma:time to run knn query: 0.0005548000335693359
+DEBUG:Chroma:time to pre process our knn query: 2.86102294921875e-06
+DEBUG:Chroma:time to run knn query: 0.00046896934509277344
+DEBUG:Chroma:time to pre process our knn query: 2.1457672119140625e-06
+DEBUG:Chroma:time to run knn query: 0.0003809928894042969
